@@ -1,0 +1,7 @@
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\bin\Debug\DirDeleter.exe.config
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\bin\Debug\DirDeleter.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\bin\Debug\DirDeleter.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\obj\Debug\DirDeleter.csprojAssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\obj\Debug\DirDeleter.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\obj\Debug\DirDeleter.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\programação\DirDeleter\DirDeleter\obj\Debug\DirDeleter.pdb
